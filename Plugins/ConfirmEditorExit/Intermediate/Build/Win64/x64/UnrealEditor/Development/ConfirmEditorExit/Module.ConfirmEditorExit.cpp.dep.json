@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\p4\\rip.main\\plugins\\ripconfirmeditorexit\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\confirmeditorexit\\module.confirmeditorexit.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\p4\\rip.main\\intermediate\\build\\win64\\x64\\ripleyeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\p4\\rip.main\\plugins\\ripconfirmeditorexit\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\confirmeditorexit\\definitions.confirmeditorexit.h",
+            "f:\\p4\\rip.main\\plugins\\ripconfirmeditorexit\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\confirmeditorexit\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
+            "f:\\p4\\rip.main\\plugins\\ripconfirmeditorexit\\source\\confirmeditorexit\\private\\confirmeditorexit.cpp",
+            "f:\\p4\\rip.main\\plugins\\ripconfirmeditorexit\\source\\confirmeditorexit\\public\\confirmeditorexit.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\editor\\unrealed\\public\\filehelpers.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\editor\\unrealed\\public\\packagetools.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\packagetools.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\developer\\sourcecontrol\\public\\isourcecontrolprovider.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\developer\\sourcecontrol\\public\\isourcecontrolchangelist.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\developer\\sourcecontrol\\public\\isourcecontrolchangeliststate.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\developer\\sourcecontrol\\public\\isourcecontrolstate.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\developer\\sourcecontrol\\public\\isourcecontroloperation.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\developer\\sourcecontrol\\public\\sourcecontrolresultinfo.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\filehelpers.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\editor\\mainframe\\public\\interfaces\\imainframemodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

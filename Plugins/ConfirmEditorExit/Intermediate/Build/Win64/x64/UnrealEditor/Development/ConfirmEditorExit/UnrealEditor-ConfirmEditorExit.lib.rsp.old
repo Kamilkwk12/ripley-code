@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ConfirmEditorExit.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:/P4/RIP.Main/Intermediate/Build/Win64/x64/RipleyEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"F:/P4/RIP.Main/Plugins/RIPConfirmEditorExit/Intermediate/Build/Win64/x64/UnrealEditor/Development/ConfirmEditorExit/Module.ConfirmEditorExit.cpp.obj"
+"F:/P4/RIP.Main/Plugins/RIPConfirmEditorExit/Intermediate/Build/Win64/x64/UnrealEditor/Development/ConfirmEditorExit/ConfirmEditorExit.cpp.obj"
+"F:/P4/RIP.Main/Plugins/RIPConfirmEditorExit/Intermediate/Build/Win64/x64/UnrealEditor/Development/ConfirmEditorExit/Default.rc2.res"
+/OUT:"F:/P4/RIP.Main/Plugins/RIPConfirmEditorExit/Intermediate/Build/Win64/x64/UnrealEditor/Development/ConfirmEditorExit/UnrealEditor-ConfirmEditorExit.lib"
